@@ -31,7 +31,7 @@ The project represents a significant advancement in digital health technology, o
 - **User-friendly Interface**: Intuitive dashboard for healthcare professionals and researchers
 
 ## Installation
-Make sure to install node.js, and python version 3.10, also auto matically create all the next.js modules then follow the following steps.
+Make sure to install node.js, and python version 3.10, then follow the following steps.
 
 ```bash
 git clone https://github.com/Hmishra230/GaitXpert.git
