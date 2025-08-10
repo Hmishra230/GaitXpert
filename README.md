@@ -34,15 +34,15 @@ The project represents a significant advancement in digital health technology, o
 Make sure to install node.js, and python version 3.10, also auto matically create all the next.js modules then follow the following steps.
 
 ```bash
-npx create-next-app@GaitXpert
-cd my-app
-npm run dev
-```
-
-```bash
 git clone https://github.com/Hmishra230/GaitXpert.git
 cd GaitXpert
 pip install -r requirements.txt
+```
+```bash
+cd frontend
+npm install
+cd ..
+npm run dev
 ```
 
 ## Usage
