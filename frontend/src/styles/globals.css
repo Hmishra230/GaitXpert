@@ -1,7 +1,7 @@
+/* @import "tailwindcss"; */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-@import "tailwindcss";
 
 
 /* CSS Custom Properties for Healthcare Theme */
@@ -187,4 +187,5 @@ body {
   .card {
     @apply p-4;
   }
+
 }
